@@ -1,4 +1,12 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {};
+// /** @type {import('next').NextConfig} */
+// const nextConfig = {
+//     port: '',
+//     pathname:'/**',
+// },
 
-export default nextConfig;
+// {
+// protocol:
+// },
+// }
+
+// export default nextConfig;

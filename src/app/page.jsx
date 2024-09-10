@@ -1,12 +1,18 @@
-import Image from "next/image";
-// import image from pop
+import MovieLists from "./components/MovieList" 
 
+
+
+// import Header2 from "./components/Header2"
 export default function Home() {
-  return (
-    <div>
-        <h1 className="text-4xl font-extrabold text-fuchsia-900 capitalize">a kiss that kills</h1>
-        <Image src={'/akiss.jpeg'} alt="movie room" width={'300'} height={'300'}/>
-        <Image src={'/cinema.jpg'} alt="fod" width={'300'} height={'300'}/>
-    </div>
+  return(
+    
+    <>
+    {/* <Header2/> */}
+    <MovieLists/>
+  </>
   )
 }
+
+// <div className="flex justify-normal capitalize items-center h-56 bg-[url(/movie.jpeg)] bg-cover bg-center text-black text-s font-black">
+// </div>
+

@@ -1,0 +1,96 @@
+/* <body>
+    <form >
+        <h2>create an account</h2>
+
+        <fieldset>
+            <legend>personal information</legend>
+            <ul>
+                <li>
+                    <label for="fullname">full name</label>
+                    <input type="text" name="name" id="fullname" required>
+                </li>
+                <li>
+                    <label for="email">email address</label>
+                    <input type="email" id="email" name="email">
+                </li>
+                <li>
+                    <label for="dob">date of birth</label>
+                    <input type="date" name="date" id="dob">
+                </li>
+                <li>
+                    <label for="phone">phone number</label>
+                    <input type="tel" name="phone" id="phone">
+                </li>
+                <li>
+                    <h3>gender</h3>
+                    <input type="radio" name="gender" id="male">
+                    <label for="male">male</label>
+                    <input type="radio" name="gender" id="female" checked>
+                    <label for="female">female</label>
+                </li>
+                <li>
+                    <h3>marital status</h3>
+                    <input type="radio" name="marital" id="single">
+                    <label for="single">single</label>
+                    <input type="radio" name="marital" id="married">
+                    <label for="married">married</label>
+                    <br>
+                    <input type="radio" name="marital" id="widowed">
+                    <label for="widowed">widowed</label>
+                    <input type="radio" name="marital" id="divorced">
+                    <label for="divorced">divorced</label>
+                </li>
+                <li>
+                    <h3>state of origin</h3>
+                    <select name="state">
+                        <optgroup label="southern">
+                            <option value="lg">lagos</option>
+                            <option value="rs">rivers</option>
+                            <option value="en">enugu</option>
+                            <option selected value="an">anambra</option>
+                        </optgroup>
+
+                        <optgroup label="northern">
+                            <option value="kd">kaduna</option>
+                            <option value="js">jos</option>
+                            <option value="kb">kebbi</option>
+                        </optgroup>
+                    </select>
+                </li>
+            </ul>
+            
+        </fieldset>
+
+        <fieldset>
+            <legend>education information</legend>
+            <ul>
+                <li>
+                    <h3>qualifications obtained</h3>
+
+                    <input type="checkbox" name="edu" id="sec">
+                    <label for="sec">secondary</label>
+                    <input type="checkbox" name="edu" id="bsc">
+                    <label for="sec">bachelors degree</label>
+                    <input type="checkbox" name="edu" id="msc">
+                    <label for="sec">masters</label>
+                    <input type="checkbox" name="edu" id="Phd">
+                    <label for="sec">doctorate</label>
+                </li>
+                <li>
+                    <label for="resume">upload your resume</label>
+                    <input type="file" name="file" id="resume" accept=".pdf,.mp4" multiple>
+                </li>
+
+                <li>
+                    <label for="exp">years of professional experience</label>
+                    <input type="number" name="number" id="exp" min="2" max="7">
+                </li><label for="accept">accept our <a href="#">terms and condition</a></label>
+                
+            
+            </ul>
+        </fieldset>
+        
+        <input type="button" value="submit">
+    </form>
+</body>
+</html> */
