@@ -2,22 +2,15 @@
 // on line 3 i first imported the react icon
 import { BiCartAdd } from "react-icons/bi";
 import { createContext, useState} from "react"
-import { loading } from './components/Loading'
-import { AiOutlineLoading3Quarters } from "react-icons/ai";
+
 
 
 const SidebarContext = createContext()
-const loadingContext = createContext()
 
-const loadingProvider=({children})=>{
-  const [loading, setLoading] = useState(false);
 
-  return (
-    <loadingContext.Provider value={{ loading, setLoading }}>
-      {loading ? <loadingPage/> :children}
-    </loadingContext.Provider>
-  )
-}
+
+  
+
 const SidebarProvider = ({children}) => {
     // const [val, setVal]= useState(10)
     const [movieItem, setMovieItem] = useState([])
@@ -36,6 +29,4 @@ const SidebarProvider = ({children}) => {
     </SidebarContext.Provider>
   )
 }
-
-export {loadingProvider, loadingContext}
 export {SidebarProvider, SidebarContext}
