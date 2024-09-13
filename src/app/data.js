@@ -9,7 +9,7 @@ export const Movies = [
     Actors: ['Nse Ikpe-Etim', 'Ramsey Nouah', 'Kate Henshaw'],
     Keywords: ['Family', 'Secrets', 'Drama'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '3',
     },
     
     {
@@ -22,7 +22,7 @@ export const Movies = [
     Actors: ['Adesua Etomi, Beverly Naya, Kunle Remi'],
     Keywords: ['Twins, Love, Drama'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '4',
     },
     
     {
@@ -48,7 +48,7 @@ export const Movies = [
     Actors: ['Richard Mofe-Damijo, Rita Dominic, OC Ukeje'],
     Keywords: ['Conspiracy, Detective, Thriller'],
     Kind: 'R',
-    Rating: '5'
+    Rating: '3'
     },
     
     {
@@ -61,7 +61,7 @@ export const Movies = [
     Actors: ['Genevieve Nnaji, Deyemi Okanlawon, Bimbo Akintola'],
     Keywords: ['Miracle, Doctor, Fantasy'],
     Kind: 'PG',
-    Rating: '5',
+    Rating: '2.4',
     },
     
     {
@@ -74,7 +74,7 @@ export const Movies = [
     Actors: ['Joke Silva, Taiwo Ajai-Lycett, Sola Sobowale'],
     Keywords: ['Activism, Biography, Women’s Rights'],
     Kind: 'PG',
-    Rating: '5',
+    Rating: '2.5',
     },
     
     {
@@ -87,7 +87,7 @@ export const Movies = [
     Actors: ['Chidinma Ekile, Blossom Chukwujekwu, Uche Jombo'],
     Keywords: ['Crime, Mute, Thriller'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '4.5',
     },
     
     {
@@ -100,7 +100,7 @@ export const Movies = [
     Actors: ['Falz, Bisola Aiyeola, Timini Egbuson'],
     Keywords: ['Friendship, Lagos, Comedy'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '2.2',
     },
     
     {
@@ -113,7 +113,7 @@ export const Movies = [
     Actors: ['Zainab Balogun, Mawuli Gavor, Nancy Isime'],
     Keywords: ['Getaway, Horror, Thriller'],
     Kind: 'R',
-    Rating: '5',
+    Rating: '3',
     },
     
     {
@@ -126,7 +126,7 @@ export const Movies = [
     Actors: ['Tope Tedela, Bimbo Ademoye, Wale Ojo'],
     Keywords: ['Self-discovery, Acceptance, Drama'],
     Kind: 'PG',
-    Rating: '5',
+    Rating: '1.4',
     },
     
     {
@@ -139,7 +139,7 @@ export const Movies = [
     Actors: ['Nse Ikpe-Etim, OC Ukeje, Beverly Naya'],
     Keywords: ['Kiss, Thriller, Romance'],
     Kind: 'R',
-    Rating: '5',
+    Rating: '3.5',
     },
     
     {
@@ -152,7 +152,7 @@ export const Movies = [
     Actors: ['Ramsey Nouah, Kate Henshaw, Blossom Chukwujekwu'],
     Keywords: ['Intruder, Mystery, Thriller'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '3.6',
     },
     
     {
@@ -165,7 +165,7 @@ export const Movies = [
     Actors: ['OC Ukeje, Adesua Etomi, Sola Sobowale'],
     Keywords: ['Haunted, Musician, Horror'],
     Kind: 'R',
-    Rating: '5',
+    Rating: '2.5',
     },
     
     {
@@ -178,7 +178,7 @@ export const Movies = [
     Actors: ['Adesua Etomi, Kunle Remi, Beverly Naya'],
     Keywords: ['Relationship, Challenges, Romance'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '3.9',
     },
     
     {
@@ -191,7 +191,7 @@ export const Movies = [
     Actors: ['AY Makun, Ramsey Nouah, Jim Iyke'],
     Keywords: ['Action, Comedy, Heist'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '2.4',
     },
     
     {
@@ -204,7 +204,7 @@ export const Movies = [
     Actors: ['Adesua Etomi, Kunle Remi, Beverly Naya'],
     Keywords: ['Love, Secrets, Betrayal'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '3',
     },
     
     {
@@ -217,7 +217,7 @@ export const Movies = [
     Actors: ['Nse Ikpe-Etim, OC Ukeje, Beverly Naya'],
     Keywords: ['Love, Different Worlds, Drama'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '2',
     },
     
     {
@@ -230,7 +230,7 @@ export const Movies = [
     Actors: ['Alexx Ekubo, Ini Edo, Desmond Elliot'],
     Keywords: ['Legacy, Family, Drama'],
     Kind: 'PG',
-    Rating: '5',
+    Rating: '3',
     },
     
     {
@@ -243,7 +243,7 @@ export const Movies = [
     Actors: ['Genevieve Nnaji, Deyemi Okanlawon, Bimbo Akintola'],
     Keywords: ['Career, Personal Life, Drama'],
     Kind: 'PG',
-    Rating: '5',
+    Rating: '4',
     },
     
     {
@@ -256,7 +256,7 @@ export const Movies = [
     Actors: ['Nse Ikpe-Etim, OC Ukeje, Beverly Naya'],
     Keywords: ['Hope, Love, Drama'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '2.9',
     },
     
     {
@@ -269,7 +269,7 @@ export const Movies = [
     Actors: ['Ramsey Nouah, Jim Iyke, Adesua Etomi'],
     Keywords: ['Heist, Action, Thriller'],
     Kind: 'R',
-    Rating: '5',
+    Rating: '3.2',
     },
     
     {
@@ -282,7 +282,7 @@ export const Movies = [
     Actors: ['Genevieve Nnaji, Richard Mofe-Damijo, Bimbo Akintola'],
     Keywords: ['History, Secrets, Mystery'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '3',
     },
     
     {
@@ -295,7 +295,7 @@ export const Movies = [
     Actors: ['OC Ukeje, Kate Henshaw, Blossom Chukwujekwu'],
     Keywords: ['Disappearances, Detective, Thriller'],
     Kind: 'R',
-    Rating: '5',
+    Rating: '3.5',
     },
     
     {
@@ -308,7 +308,7 @@ export const Movies = [
     Actors: ['Alexx Ekubo, Ini Edo, Desmond Elliot'],
     Keywords: ['Inheritance, Family, Drama'],
     Kind: 'PG',
-    Rating: '5',
+    Rating: '4.2',
     },
     
     {
@@ -321,7 +321,7 @@ export const Movies = [
     Actors: ['Adesua Etomi, Kunle Remi, Beverly Naya'],
     Keywords: ['Marriage, Plan, Romance'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '1.5',
     },
     
     {
@@ -334,7 +334,7 @@ export const Movies = [
     Actors: ['Genevieve Nnaji, Deyemi Okanlawon, Bimbo Akintola'],
     Keywords: ['Conspiracy, Journalist, Thriller'],
     Kind: 'R',
-    Rating: '5',
+    Rating: '3',
     },
     
     {
@@ -347,7 +347,7 @@ export const Movies = [
     Actors: ['Richard Mofe-Damijo, Rita Dominic, OC Ukeje'],
     Keywords: ['Archaeology, Kingdom, Adventure'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '2.5',
     },
     
     {
@@ -360,7 +360,7 @@ export const Movies = [
     Actors: ['Nse Ikpe-Etim, OC Ukeje, Beverly Naya'],
     Keywords: ['Fame, Stardom, Drama'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '2.1',
     },
     
     {
@@ -373,7 +373,7 @@ export const Movies = [
     Actors: ['Chidinma Ekile, Blossom Chukwujekwu, Uche Jombo'],
     Keywords: ['Witness, Murder, Thriller'],
     Kind: 'PG-13',
-    Rating: '5',
+    Rating: '1.5',
     },
     
     {

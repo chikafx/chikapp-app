@@ -1,4 +1,4 @@
-import MovieLists from "./components/MovieList" 
+import MovieLists from "./components/MovieList"
 
 
 

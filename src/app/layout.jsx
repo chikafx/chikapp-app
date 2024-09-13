@@ -5,6 +5,8 @@ import Header2 from "./components/Header2";
 import Footer from "./components/Footer";
 import Header from "./components/Navbar";
 import { SidebarProvider } from "./providers";
+
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {

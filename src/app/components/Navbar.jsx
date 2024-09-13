@@ -13,10 +13,10 @@ export default function Navbar () {
   const {cartCount} =useContext(SidebarContext)
   return (   
         // this line of code is to set my navbar to make it sticky to my webpage where i hardcoded style in it
-        <nav className='w-full top-0 z-10 sticky'>
-            <ul className='flex justify-around capitalize items-center bg-slate-900 h-28 text-justify'>
+        <nav className='w-full top-0 z-10 sticky sm: '>
+            <ul className='flex justify-around hover:text-green-500 capitalize items-center bg-slate-900 h-28 text-justify'>
                 <Link href={'/logo'}>
-                <li className='flex bg-green-600 font-serif font-extrabold rounded-r-2xl'>C-H-K</li>
+                <li className='flex bg-green-600 font-serif font-extrabold rounded-r-2xl'>C -H - K</li>
                 </Link>
                 <Link href={'/'}>
                 <li>Home</li>

@@ -3,6 +3,8 @@
 import { BiCartAdd } from "react-icons/bi";
 import { createContext, useState} from "react"
 import { loading } from './components/Loading'
+import { AiOutlineLoading3Quarters } from "react-icons/ai";
+
 
 const SidebarContext = createContext()
 const loadingContext = createContext()
@@ -24,11 +26,11 @@ const SidebarProvider = ({children}) => {
   return (
     // next on line 15 i used the cartCount as a state variable and also added a div element that displays the cart icon and the count of items in the cart
     <SidebarContext.Provider value={{movieItem, setMovieItem, cartCount, setCartCount}}>
-      <div style={{position: 'absolute', top:10, right:10}}>
+      <div style={{position: 'absolute', right:10}}>
       <BiCartAdd size={24} />
       <span style={{marginLeft: 10}}>{cartCount}
       </span>
-
+      {/* <AiOutlineLoading3Quarters size ={100} /> */}
       </div>
     {children}
     </SidebarContext.Provider>

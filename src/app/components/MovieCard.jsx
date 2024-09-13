@@ -6,7 +6,7 @@ export default function MovieCard({title,Category,Rating,DateReleased}) {
 
   
   return (
-    <div className='flex flex-col items-center'>
+    <div className='flex flex-col items-center hover:animate-bounce transition'>
       <Image src={`/mv/${String(title).split(' ').join('')}.jpeg`}
        alt={String(title).split(' ').join('')}
       title={String(title).split(' ').join('')}
