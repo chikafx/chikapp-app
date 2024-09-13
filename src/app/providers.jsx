@@ -6,11 +6,6 @@ import { createContext, useState} from "react"
 
 
 const SidebarContext = createContext()
-
-
-
-  
-
 const SidebarProvider = ({children}) => {
     // const [val, setVal]= useState(10)
     const [movieItem, setMovieItem] = useState([])
