@@ -27,14 +27,8 @@ export default function Navbar () {
                 <Link href={'/discover'}>
                 <li>Discover</li>
                 </Link>
-                <Link href={'/about'}>
-                <li>About us</li>
-                </Link>
                 <Link href={'/contact'}>
                 <li>Contact</li>
-                </Link>
-                <Link href={'/login'}>
-                <li>Login</li>
                 </Link>
                 <li>
                   <Link href={'/wishes'}>

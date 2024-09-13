@@ -10,11 +10,17 @@ export default function DiscoverPage() {
   
       <div className="flex justify-center mt-12">
         <Link href={'/'}>
-        <Image src={'/ace.jpeg'} alt="movie room" width={'300'} height={'300'} className="mr-4 hover:animate-ping transition" />
+        <Image src={'/ace.jpeg'} alt="movie room" width={'300'} height={'300'} className="mr-4 hover:animate-ping transition font-serif" />
         </Link>
-        <Image src={'/ace.jpeg'} alt="movie room" width={'300'} height={'300'} className="mr-4 hover:animate-pulse"/>
-        <Image src={'/ace.jpeg'} alt="movie room" width={'300'} height={'300'} className="mr-4 hover:animate-ping"/>
-        <Image src={'/ace.jpeg'} alt="movie room" width={'300'} height={'300'} className="mr-4 hover:animate-bounce"/>
+        <Link href={'/'}>
+        <Image src={'/livinginbondage.jpeg'} alt="movie room" width={'300'} height={'300'} className="mr-4 hover:animate-pulse"/>
+        </Link>
+        <Link href={'/'}>
+        <Image src={'/Falling.jpg'} alt="movie room" width={'300'} height={'300'} className="mr-4 hover:animate-ping"/>
+        </Link>
+        <Link href={'/'}>
+        <Image src={'/FunmilayoRansomeKuti.jpeg'} alt="movie room" width={'300'} height={'300'} className="mr-4 hover:animate-bounce"/>
+        </Link>
       </div>
     </div>
   )
