@@ -11,10 +11,10 @@ export default function Header2() {
         className={`bg-[url(/movie.jpeg)] md:col-span-4 md:row-span-3 hover:animate-pulse transition`}
       />
       <div
-        className={`bg-[url(/biglove.jpeg)] bg-cover md:row-span-2 md:col-span-2 hover:animate-pulse transition`}
+        className={`bg-[url(/biglove.jpeg)] bg-cover bg-no-repeat md:row-span-2 md:col-span-2 hover:animate-pulse transition`}
       />
       <div
-        className={`bg-[url(/far.jpeg)] hover:animate-pulse transition sm:bg-contain`}
+        className={`bg-[url(/far.jpeg)] hover:animate-pulse transition sm:bg-cover bg-no-repeat`}
       >
         <p
           className={`text-3xl text-center mt-24 font-extrabold text-pink-700`}
