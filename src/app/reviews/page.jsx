@@ -9,9 +9,9 @@ export default function ReviewPage() {
 
   useEffect(() => {
     const Movies = [
-      { id: 1, title: 'A Mothers Lie.jpeg', rating: 3.2 },
-      { id: 2, title: 'Twice the Love.jpeg', rating: 1.5 },
-      { id: 3, title: 'A Tribe Called Judah.jpeg', rating: 4.8 },
+      { id: 1, title: 'A Mothers Lie', rating: 3.2 },
+      { id: 2, title: 'Twice the Love', rating: 1.5 },
+      { id: 3, title: 'A Tribe Called Judah', rating: 4.8 },
     ];
     setMovies(Movies);
   }, []);
