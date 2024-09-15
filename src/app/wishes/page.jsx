@@ -8,7 +8,7 @@ export default function WishPage() {
     const {movieItem}= useContext(SidebarContext)
   return (
     <div>
-        <MovieCard/>
+        {/* <MovieCard/> */}
 
 
 

@@ -2,7 +2,7 @@ import React from 'react'
 import { default as Image } from 'next/image';
 import { Rating as MuiRating } from '@mui/material'
 
-export default function MovieCard({title,Category,Rating,DateReleased}) {
+export default function MovieCard({title,Category,Rating,DateReleased,img}) {
 
   
   return (
@@ -13,7 +13,8 @@ export default function MovieCard({title,Category,Rating,DateReleased}) {
       epilogue={String(title).split(' ').join('')}
       width={300} height={500}
       className='rounded-md'/>
-      <h1>{title}</h1>
+      <h1>{img}</h1>
+      <h2>{title}</h2>
       <p>{Category}</p>
       <p>{DateReleased}</p>
       <p>
