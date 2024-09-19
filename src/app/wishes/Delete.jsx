@@ -1,7 +1,8 @@
-import React from "react"
+import { useContext } from "react"
+import { SidebarContext } from "../providers"
 
 export default function Delete({title}) {
-const{movieItem, setMovieItems, SetVal}= useContext(sidebarContext)
+const{movieItem, setMovieItems, SetVal}= useContext(SidebarContext)
 
 const handleDelete=()=>{
     SetVal(prev => prev -1)

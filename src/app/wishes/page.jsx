@@ -2,30 +2,44 @@
 import { useContext } from 'react';
 import { SidebarContext } from '../providers'
 import Image from 'next/image'
-import MovieCard from '../components/MovieCard';
+import Delete from './Delete';
 
 export default function WishPage() {
-    const {movieItem}= useContext(SidebarContext)
+    const {movieItem, setMovieItem, setVal, title}= useContext(SidebarContext)
   return (
     <div>
-        {/* <MovieCard/> */}
-
-
-
         {movieItem.length==0 ?
         (
-            <h2>add movie to wish list</h2>
+            <h2>add movie to Watch list</h2>
         )
         :
         (
+            
             <div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>Title</th>
+                            <th>Epilogue</th>
+                        </tr>
+                    </thead>
+                
+                <tbody>
                 {movieItem.map((movie, index)=>(
-                    <div key={index}>
-                        <h2>{movie.title}</h2>
-                        <h2>{movie.epi}</h2>
+                    <tr key={index}>
+                        <td><Image src={`/mv/${String(title).split(' ').join('')}.jpeg`}
+                         alt={movie.title} title={movie.title} width={'150'} height={'150'}/></td>
+                        <td>{movie.title}</td>
+                        <td>{movie.epi}</td>
 
-                    </div>
+                        <td>
+                            <Delete index={index} title={movie.title}/>
+                        </td>
+                    </tr>
                 ))}
+                </tbody>
+                </table>
             </div>
         )
     }
