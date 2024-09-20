@@ -13,7 +13,7 @@ export default function Navbar () {
   const {WatchLaterCount} =useContext(SidebarContext)
   return (   
     // this line of code is to set my navbar to make it sticky to my webpage where i hardcoded style in it
-    <nav className='sm:w-full z-10 top-0 sticky'>
+    <nav className={`sm:w-full z-10 top-0 ${window.innerWidth < 640 ? '' : 'sticky'}`}>
             <ul className='md:flex hidden justify-around hover:text-green-500 capitalize items-center bg-slate-900 h-28 text-justify'>
                 <Link href={'/logo'}>
                 <li className='bg-green-600 font-serif font-extrabold rounded-r-2xl'>C -H - K</li>

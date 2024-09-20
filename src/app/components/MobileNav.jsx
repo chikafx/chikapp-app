@@ -15,8 +15,10 @@ export default function MobileNav() {
   return (
     <nav>
         <ul className=' flex items-center justify-around md:hidden h-36'>
-            <li>Home</li>
-            <li onClick={controlNav} className='cursor cursor-pointer'>
+            <Link href={'/'}>
+            <li className='hover:animate-bounce cursor-pointer'>Home</li>
+            </Link>
+            <li onClick={controlNav} className='cursor cursor-pointer hover:animate-bounce'>
             <GiHamburgerMenu/>
             </li> 
         </ul>
@@ -31,16 +33,16 @@ export default function MobileNav() {
                 <li>about</li>
                 </Link>
 
+                <Link href={'/discover'}>
+                <li>discover</li>
+                </Link>
+
                 <Link href={'/contact'}>
                 <li>contact</li>
                 </Link>
 
-                <Link href={'/help'}>
-                <li>help</li>
-                </Link>
-
-                <Link href={'/login'}>
-                <li>login</li>
+                <Link href={'/reviews'}>
+                <li>reviews</li>
                 </Link>
                 
                 <Link href={'/more'}>

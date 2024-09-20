@@ -25,7 +25,7 @@ export default function MovieList() {
     <>
     <h1 className="flex font-extrabold text-6xl text-white font-serif text-s items-center mt-8 ml-12 mb-8">Highlights today</h1>
     <h2 className="flex font-extrabold text-gray-400 font-serif text-s text-2xl items-center mt-8 ml-12 mb-8">Be sure not to miss these reviews today.</h2>
-    <div className="grid grid-cols-3 gap px-16 py-32 capitalize">
+    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 px-16 py-32 capitalize">
         {cards}
     </div>
     <Link href={'/movies '} className="flex items-center justify-center my-5">

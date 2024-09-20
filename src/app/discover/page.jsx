@@ -8,7 +8,7 @@ export default function DiscoverPage() {
       <h2 className="text-center mt-11">Discover our reviews by author favorites or genre:</h2>
 
   
-      <div className="flex justify-center mt-12">
+      <div className="justify-center mt-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 px-16 py-32 capitalize">
         <Link href={'/'}>
         <Image src={'/ace.jpeg'} alt="movie room" width={'300'} height={'300'} className="mr-4 hover:animate-ping transition font-serif" />
         </Link>

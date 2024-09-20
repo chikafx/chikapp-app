@@ -10,7 +10,7 @@ export default function ReviewPage() {
     <div>
       <h1 className='text-7xl p-5 ml-14 text-center font-extrabold hover:text-green-600 scale-125'>All Reviews</h1>
       <h2 className='text-2xl p-5 ml-14 text-center'>All our reviews sorted alphabetically.</h2>
-      <div className="movie-cards flex m-24">
+      <div className="movie-cards m-24 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 px-16 py-32 capitalize">
 
       <Link href={'/'}>
         <Image src={'/JagunJagun.jpeg'} alt="movie room" width={'300'} height={'300'} className="mr-4 hover:animate-ping transition font-serif" />

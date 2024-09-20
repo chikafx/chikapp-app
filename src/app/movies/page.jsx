@@ -31,7 +31,7 @@ export default function MoviePage() {
         onChange={(e)=>filterSearch(e)}/>
         <FcSearch className="text-2xl"/>
         </div>
-        <div className="grid grid-cols-3 gap-4 px-16 py-32 capitalize">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 px-16 py-32 capitalize ">
             {cards}
         </div>
         </>
