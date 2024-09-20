@@ -7,9 +7,7 @@ export default function MobileNav() {
     const [open, setOpen] = useState(false)
     // const [val, setVal] = useState(10)
 
-    function changeVal(){
-        setVal(prev => prev + 20)
-    }
+    
 
     function controlNav(){
         setOpen(!open)
@@ -48,9 +46,6 @@ export default function MobileNav() {
                 <Link href={'/more'}>
                 <li>more</li>
                 </Link>
-
-                {/* <li>{val}</li>
-                <li onClick={changeVal}>increase</li> */}
             </ul>
         }
     </nav>

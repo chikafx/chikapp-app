@@ -12,11 +12,11 @@ export default function Navbar () {
   // here on line 13 i imported the SidebarContext and used the CartCount state variable from it
   const {WatchLaterCount} =useContext(SidebarContext)
   return (   
-        // this line of code is to set my navbar to make it sticky to my webpage where i hardcoded style in it
-        <nav className='w-full top-0 z-10 sticky sm: '>
-            <ul className='flex justify-around hover:text-green-500 capitalize items-center bg-slate-900 h-28 text-justify'>
+    // this line of code is to set my navbar to make it sticky to my webpage where i hardcoded style in it
+    <nav className='sm:w-full z-10 top-0 sticky'>
+            <ul className='md:flex hidden justify-around hover:text-green-500 capitalize items-center bg-slate-900 h-28 text-justify'>
                 <Link href={'/logo'}>
-                <li className='flex bg-green-600 font-serif font-extrabold rounded-r-2xl'>C -H - K</li>
+                <li className='bg-green-600 font-serif font-extrabold rounded-r-2xl'>C -H - K</li>
                 </Link>
                 <Link href={'/'}>
                 <li>Home</li>
@@ -41,7 +41,7 @@ export default function Navbar () {
                 {/* <li>{val}</li> */}
                 {/* <li><Image src={'/search.gif'} alt='=alternative search' width={'70'} height={'70'} /> </li> */}
             </ul>
-            <MobileNav/>
+            <MobileNav/>            
         </nav>
   )
 }
