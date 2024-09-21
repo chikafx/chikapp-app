@@ -6,7 +6,7 @@ import { useState } from "react"
 import { Movies } from "@/app/data"
 
 export default function MoviePage() {
-    const [searchMovie, setSearchMovie] = useState('')
+    const [searchMovie, setSearchMovie,] = useState('')
 
     function filterSearch(e){
         setSearchMovie(e.target.value)

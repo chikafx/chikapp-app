@@ -8,10 +8,10 @@ export default function Header2() {
       className={`grid md:grid-cols-6 md:grid-rows-[200px_300px_200px] grid-cols-1 grid-rows-[300px_300px_400px] cursor-wait `}
     >
       <div
-        className={`bg-[url(/movie.jpeg)] md:col-span-4 md:row-span-3 hover:animate-pulse transition`}
+        className={`bg-[url(/movie.jpeg)] md:col-span-4 md:row-span-3 z-10 hover:animate-pulse transition`}
       />
       <div
-        className={`bg-[url(/biglove.jpeg)] bg-cover bg-no-repeat md:row-span-2 md:col-span-2 hover:animate-pulse transition`}
+        className={`bg-[url(/biglove.jpeg)] bg-cover bg-no-repeat z-10 md:row-span-2 md:col-span-2 hover:animate-pulse transition`}
       />
       <div
         className={`bg-[url(/far.jpeg)] hover:animate-pulse transition bg-cover bg-no-repeat`}

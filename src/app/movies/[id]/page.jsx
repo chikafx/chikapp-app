@@ -7,11 +7,12 @@ import { SidebarContext } from "@/app/providers"
 import { useContext } from 'react';
 
 export default function MovieDetails({params}) {
-const {movieItem, setMovieItem, setCartCount} = useContext(SidebarContext)
+const {movieItem, setMovieItem, setWatchLaterCount, setCartCount} = useContext(SidebarContext)
 
 function handleMovieAdd(){
   
   setCartCount(prev=> prev + 1)
+  setWatchLaterCount(prev=> prev + 1)
   setMovieItem([...movieItem, {Title:details.Title, epi:details.Epilogue,cat:details.Category}])
 }
   const details = Movies.find(Movie => Movie.Title.split(' ').join('-') == params.id)
