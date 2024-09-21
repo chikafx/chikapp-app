@@ -2,10 +2,12 @@
 import Link from 'next/link'
 import {GiHamburgerMenu} from 'react-icons/gi'
 import { useState } from 'react'
+import { SidebarContext } from '../providers'
+import { MdWatchLater } from 'react-icons/md'
 
 export default function MobileNav() {
     const [open, setOpen] = useState(false)
-    // const [val, setVal] = useState(10)
+    const { WatchLaterCount }=useState(SidebarContext)
 
     
 
@@ -45,9 +47,8 @@ export default function MobileNav() {
                 <li>reviews</li>
                 </Link>
                 
-                <Link href={'/more'}>
-                <li>more</li>
-                </Link>
+                <MdWatchLater size={50}/>
+                <li>{WatchLaterCount}</li>
             </ul>
         }
     </nav>
