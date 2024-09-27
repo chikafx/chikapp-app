@@ -2,7 +2,7 @@ export const Movies = [
     {
         id: 1,
     Title: 'A Mothers Lie', 
-    Epilogue: 'A woman\'s hidden past comes to light, threatening her family\'s future.',
+    Epilogue: '“A Mother’s Lie” is a Nigerian movie featuring Eddie Watson and Ruth Kadiri. The story revolves around Marvin, who is surprised by a teenage girl named Tonya claiming to be his daughter from his first love, Edna. Marvin, now married to Candy, faces tension and suspicion as they try to integrate Tonya into their family. Candy, desperate for a child of her own, struggles with insecurities and jealousy .A woman\'s hidden past comes to light, threatening her family\'s future.',
     DateReleased: '2024',
     Category: 'Drama',
     Type: 'Feature Film',
@@ -15,7 +15,7 @@ export const Movies = [
     {
         id: 2,
     Title: "Twice the Love",
-    Epilogue: 'Twin sisters navigate love and life, facing unexpected challenges.',
+    Epilogue: '“Twice the Love” is a captivating Nigerian movie that explores themes of love, betrayal, and family dynamics. The story revolves around two brothers, Mark and Toby, who find themselves entangled in a web of romantic complications and familial conflicts. Mark is engaged to Mercy, who works with him at the same company. However, Mercy’s arrogance and poor treatment of Mark strain their relationship. Meanwhile, Toby is dating Stella, a gold digger who cheats on him with other men. Toby, who lives with Mark, faces pressure from Mercy to move out. The plot thickens when Eddie, the owner of the company and Mark and Mercy’s boss, enters the scene. Eddie is searching for a wife to help manage his business and ends up having an affair with Stella, who is also Tracy’s cousin. Tracy, Mercy’s friend and Eddie’s secretary, tries to help Toby secure a job at the company. As the story unfolds, the characters navigate through their complex relationships, leading to dramatic revelations and emotional confrontations. The movie highlights the challenges of trust and loyalty in relationships and the impact of personal ambitions on family bonds',
     DateReleased: ['2024.'],
     Category: 'Romance, Drama',
     Type: ['FeatureFilm'],
@@ -28,7 +28,7 @@ export const Movies = [
     {
         id: 3,
     Title: 'A Tribe Called Judah',
-    Epilogue: 'A young man discovers his royal heritage and must fight to reclaim his throne.',
+    Epilogue: '“A Tribe Called Judah” is a powerful Nigerian film directed by Funke Akindele and Adeoluwa Owu. The movie tells the story of Jedidah Judah, a single mother raising five sons, each from different fathers and different tribes. The film explores the complexities of family dynamics, love, and survival in a challenging environment12. Jedidah’s sons have varied personalities and life paths. Emeka, the eldest, is responsible and hardworking, while Pere is a pickpocket, Shina is a community hoodlum, and Ejiro is more concerned with his girlfriend than his family. Despite their differences, Jedidah’s love for her sons is unwavering. The family’s struggles intensify when Jedidah is diagnosed with chronic kidney disease, requiring expensive treatment12. In a desperate bid to save their mother, the brothers plan to rob Emeka’s ex-boss, rumored to be a money launderer. However, their plan goes awry when they encounter armed robbers at the scene, leading to dramatic and unexpected consequences The film is a blend of drama, comedy, and suspense, showcasing the resilience and strength of a mother’s love. It has been praised for its storytelling, character development, and emotional depth. If you enjoy movies with rich narratives and complex characters, “A Tribe Called Judah” is definitely worth watching. Do you have any other Nigerian movies you’re curious about?',
     DateReleased: '2023',
     Category: 'Action, Drama.',
     Type: 'Feature Film',
@@ -41,7 +41,7 @@ export const Movies = [
     {
         id:4,
     Title: 'The Black Book',
-    Epilogue: 'A detective uncovers a conspiracy that leads to a powerful secret society.',
+    Epilogue: 'The Black Book” is a powerful Nigerian movie directed by Editi Effiong. The film tells the story of Paul Edima, a deacon whose life is turned upside down when his son, Damilola, is unjustly accused and killed by a corrupt police gang. Determined to clear his son’s name and seek justice, Paul embarks on a relentless quest that exposes the deep-seated corruption within the Nigerian police force12. Throughout his journey, Paul encounters Victoria Kalu, a persistent journalist who suspects foul play and is determined to uncover the truth. Together, they navigate a dangerous path filled with threats and revelations. Paul’s past as a mercenary for General Isa resurfaces, adding layers of complexity to his mission. He is pursued by Angel, a fellow combatant, and must confront the dark aspects of his history12. The movie delves into the socio-political realities of Nigeria, highlighting the struggles against systemic corruption and the quest for justice. It draws parallels between Nigeria’s past under military rule and the present-day challenges, urging viewers to reflect on the consequences of a corrupt system',
     DateReleased: '2023',
     Category: 'Thriller, Mystery',
     Type: 'Feature Film',
@@ -54,7 +54,7 @@ export const Movies = [
     {
         id: 5,
     Title: 'Breath of Life',
-    Epilogue: 'A doctor’s life changes when she meets a mysterious patient with a miraculous story.',
+    Epilogue: 'Breath of Life is a 2023 Nigerian drama film directed by BB Sasore and produced by Eku Edewor1. The movie tells the story of Timi, a wealthy and bitter old man, and Elijah, a poor and kind young man who becomes his housekeeper. Through their friendship, Timi learns to love again and finds new meaning in his life, while Elijah benefits from Timi’s generosity12. The film explores themes of loss, love, and purpose, and features a talented cast including Wale Ojo, Chimezie Imo, and Genoveva Umeh12. It has received positive reviews for its heartwarming and uplifting narrative.',
     DateReleased: '2023',
     Category: 'Drama, Fantasy',
     Type: 'Feature Film',
@@ -67,7 +67,7 @@ export const Movies = [
     {
         id: 6,
     Title: 'Funmilayo Ransome Kuti',
-    Epilogue: ['The inspiring story of Nigeria’s foremost female activist and her fight for women’s rights.'],
+    Epilogue: 'Funmilayo Ransome-Kuti is a 2024 biographical drama directed by Bolanle Austen-Peters12. The film chronicles the life of Funmilayo Ransome-Kuti, a pioneering Nigerian women’s rights activist and the mother of the legendary musician Fela Kuti12. The movie delves into her early years, highlighting her groundbreaking achievement as the first girl to attend Abeokuta Grammar School1. It follows her journey to London for further education and her return to Nigeria, where she became a formidable educator and organizer12. Funmilayo’s activism led to the formation of the Abeokuta Women’s Union, which played a crucial role in challenging colonial and traditional rulers12. The film also explores her personal life, balancing her roles as a wife and mother while leading a revolution against colonialism and patriarchy12. The cast includes Kehinde Bankole as the young Funmilayo, Joke Silva as the older Funmilayo, and other notable actors like Adunni Ade and Omowunmi Dada',
     DateReleased: '2024',
     Category: 'Biography, Drama',
     Type: 'Feature Film',
@@ -80,7 +80,7 @@ export const Movies = [
     {
         id: 7,
     Title: 'The bridge',
-    Epilogue: 'A mute girl witnesses a crime and must find a way to communicate the truth.',
+    Epilogue: 'The Bridge is a 2017 Nigerian romantic drama directed by Kunle Afolayan12. The film tells the story of Obadare, a Yoruba prince, and Stella, a young lady from a prominent Igbo family, who face significant tribal prejudice and parental pressure when they secretly wed12. After the tragic events that unfold due to their secret marriage, the epilogue of The Bridge reflects on the consequences of their actions. The film ends with a poignant scene where both families, despite their deep-seated differences, come together to mourn the loss of their children. This moment of shared grief serves as a powerful commentary on the futility of tribal prejudice and the importance of unity and understanding. The final scenes show the parents of Obadare and Stella standing together at the bridge where their children used to meet, symbolizing a tentative step towards reconciliation. The film leaves viewers with a reflective question: "Should the preservation of our culture bring our destruction?"12. This question underscores the central theme of the movie, urging the audience to consider the impact of cultural and tribal divisions on personal relationships and societal harmony.',
     DateReleased: '2024',
     Category: 'Thriller, Drama',
     Type: 'Feature Film',
@@ -93,7 +93,7 @@ export const Movies = [
     {
         id: 8,
     Title: 'Dwindle',
-    Epilogue: 'Four friends navigate the ups and downs of life in Lagos.',
+    Epilogue: 'Dwindle is a 2021 Nigerian comedy film directed by Kayode Kasum and Dare Olaitan12. The movie follows the story of Sogo and Buta, two friends who hijack a car and venture into cabbing, only to have their lives take a drastic turn when they cross paths with assassins who have just kidnapped the state governor12. In the epilogue of Dwindle, the film wraps up the chaotic and humorous journey of Sogo and Buta. After a series of misadventures, including run-ins with the police and the kidnappers, the duo finally manages to escape the dangerous situation they found themselves in. The epilogue shows them reflecting on their wild experiences and the lessons learned. Sogo and Buta decide to turn over a new leaf, abandoning their life of petty crime and focusing on more legitimate ways to make a living. The final scenes depict them starting a small business together, symbolizing their growth and the positive changes in their lives. The movie ends on a hopeful note, emphasizing themes of redemption and the importance of making better choices.',
     DateReleased: '2024',
     Category: 'Drama, Comedy',
     Type: 'Feature Film',
@@ -106,7 +106,7 @@ export const Movies = [
     {
         id: 9,
     Title: 'A Weekend to Forget',
-    Epilogue: 'A group of friends’ weekend getaway turns into a nightmare.',
+    Epilogue: 'A Weekend to Forget is a 2023 Nigerian thriller directed by Damola Ademola12. The film follows seven friends who reunite for a weekend getaway, only for their plans to be disrupted when one of them is found dead12. In the epilogue of A Weekend to Forget, the surviving friends are seen grappling with the aftermath of the tragic weekend. The film concludes with a series of reflective scenes where each character contemplates their actions and the events that led to the tragedy. The final moments show the friends attending a memorial service for their deceased friend, highlighting the themes of loss, guilt, and the fragility of trust. The epilogue emphasizes the importance of honesty and the devastating consequences of secrets and betrayal. The film ends on a somber note, leaving viewers to ponder the impact of their actions on their relationships and the importance of cherishing the time spent with loved ones12.',
     DateReleased: '2023',
     Category: 'Horror, Thriller',
     Type: 'Feature Film',
@@ -119,7 +119,7 @@ export const Movies = [
     {
         id: 10,
     Title: 'Coming from Insanity',
-    Epilogue: 'A young man’s journey to self-discovery and acceptance.',
+    Epilogue: 'Coming from Insanity is a 2019 Nigerian crime drama directed by Akinyemi Sebastian Akinropo12. The film is based on the true story of Kossi, a young boy trafficked from Togo to Nigeria, who grows up to become a master counterfeiter12. In the epilogue of Coming from Insanity, Kossi’s journey comes full circle. After years of living a double life as a houseboy and a counterfeiter, Kossi’s operation is finally exposed by the Economic and Financial Crimes Commission (EFCC). The final scenes depict his arrest and the subsequent trial, where his genius-level intelligence and the intricacies of his counterfeiting operation are laid bare. Despite his criminal activities, Kossi’s story is portrayed with a sense of empathy, highlighting the systemic issues that led him down this path. The epilogue shows Kossi reflecting on his life choices from his prison cell, contemplating the impact of his actions on those around him. The film ends with a powerful message about the consequences of crime and the importance of making ethical choices, even in the face of adversity',
     DateReleased: '2024',
     Category: 'Drama',
     Type: 'Feature Film',
@@ -132,7 +132,7 @@ export const Movies = [
     {
         id: 11,
     Title: 'The Arbitration',
-    Epilogue: 'A deadly kiss sets off a chain of events that changes lives forever.',
+    Epilogue: 'The Arbitration is a 2016 Nigerian romantic drama directed by Niyi Akinmolayan12. The film revolves around Gbenga, a successful tech entrepreneur, and Dara, a talented computer engineer who sues him for coercion and rape after their relationship ends12. In the epilogue of The Arbitration, the film concludes with the arbitration panel delivering its verdict. Gbenga is found guilty of coercion but not rape, leading to a complex mix of emotions among the characters. Dara, though partially vindicated, feels the weight of the societal stigma and the personal toll the case has taken on her life. Gbenga, on the other hand, faces the consequences of his actions, both legally and personally. His company suffers a significant blow, and he is left to rebuild his life and reputation from scratch. The final scenes depict Gbenga reflecting on his past mistakes and the impact of his actions on those around him. The film ends with a powerful message about accountability, the complexities of power dynamics in relationships, and the importance of justice. It leaves viewers contemplating the nuances of consent and the far-reaching effects of abuse of power',
     DateReleased: '2024',
     Category: 'Thriller, Romance',
     Type: 'Feature Film',
@@ -145,7 +145,7 @@ export const Movies = [
     {
         id: 12,
     Title: 'Private Storm',
-    Epilogue: 'A family’s peaceful life is disrupted by a mysterious intruder.',
+    Epilogue: 'A Private Storm is a 2010 Nigerian romantic drama film co-directed by Lancelot Oduwa Imasuen and Ikechukwu Onyeka12. The movie stars Ramsey Nouah as Alex and Omotola Jalade Ekeinde as Gina, depicting a tumultuous relationship marred by emotional and physical abuse12. In the epilogue of A Private Storm, the film concludes with Gina finally finding the strength to leave Alex after enduring years of abuse. The final scenes show Gina rebuilding her life with the support of her friends and family. She starts a new job and gradually regains her confidence and independence. Alex, on the other hand, is shown grappling with the consequences of his actions. He attends therapy sessions and begins to understand the deep-seated issues that led to his abusive behavior. The film ends on a hopeful note, with Alex making a sincere effort to change and Gina finding peace and happiness in her new life. The epilogue emphasizes themes of resilience, healing, and the possibility of redemption. It leaves viewers with a powerful message about the importance of self-worth and the courage it takes to break free from toxic relationships',
     DateReleased: '2024',
     Category: 'Thriller, Mystery',
     Type: 'Feature Film',
@@ -158,7 +158,7 @@ export const Movies = [
     {
         id: 13,
     Title: 'A Song from the Dark',
-    Epilogue: 'A haunted musician must confront his past to find peace.',
+    Epilogue: 'A Song from the Dark is a 2024 Nigerian-British supernatural horror film directed by Ogo Okpue12. The movie follows a woman who hires a reluctant spirit hunter to expel a malevolent spirit tormenting her family after the mysterious death of her husband12. In the epilogue of A Song from the Dark, the film concludes with the spirit hunter, Ashionye, successfully expelling the malevolent spirit that has been tormenting the family. However, the victory comes at a great cost. The final scenes reveal the deep-seated secrets and traumas that the family has been hiding, which are now brought to light. The family members, now free from the supernatural torment, must confront their past actions and the consequences of their secrets. The epilogue shows them beginning the process of healing and reconciliation, but it is clear that the scars—both physical and emotional—will take time to heal. The film ends on a somber yet hopeful note, emphasizing themes of redemption, forgiveness, and the enduring impact of past actions',
     DateReleased: '2024',
     Category: 'Horror, Drama',
     Type: 'Feature Film',
@@ -171,7 +171,7 @@ export const Movies = [
     {
         id: 14,
     Title: 'As We Are',
-    Epilogue: 'A couple’s relationship is tested by unexpected challenges.',
+    Epilogue: 'As We Are is a 2023 Nigerian drama film directed by Chidi Chijioke, starring Frederick Leonard, Onyii Alex, Patience Ujah, and Anthony Woode12. In the epilogue of As We Are, the film concludes with the characters reflecting on the tumultuous events that have transpired. The story centers around the complex relationships and personal struggles of the main characters, who each face significant challenges and growth throughout the movie. The final scenes depict a sense of resolution and hope. Frederick Leonard’s character, who has been grappling with personal demons and strained relationships, finds a path to redemption and reconciliation with his loved ones. Onyii Alex’s character, who has faced numerous hardships, emerges stronger and more determined to pursue her dreams. The epilogue emphasizes themes of forgiveness, personal growth, and the importance of family and community support. The characters come together in a heartfelt moment of unity, symbolizing the healing and strength that comes from overcoming adversity. The film ends on a hopeful note, leaving viewers with a sense of optimism and the belief that, despite life’s challenges, there is always a way forward',
     DateReleased: '2023',
     Category: 'Drama, Romance',
     Type: 'Feature Film',
@@ -184,7 +184,7 @@ export const Movies = [
     {
         id: 15,
     Title: 'Merry Men 3',
-    Epilogue: 'The Merry Men face their toughest challenge yet as they confront a powerful enemy.',
+    Epilogue: 'Merry Men 3: Nemesis is a 2023 Nigerian action-comedy film directed by Moses Inwang12. The movie continues the adventures of the Merry Men, a group of wealthy gentlemen who often find themselves in the middle of thrilling escapades12. In the epilogue of Merry Men 3: Nemesis, the film wraps up the intense and action-packed storyline with a mix of resolution and new beginnings. After a series of high-stakes confrontations and dramatic twists, the Merry Men manage to outsmart their adversaries and bring justice to those who wronged them. The final scenes depict the Merry Men reflecting on their journey and the personal losses they have endured. Despite the challenges, they reaffirm their bond and commitment to each other. The epilogue shows them planning their next venture, hinting at more adventures to come. The film ends on a hopeful note, with the Merry Men looking forward to the future with renewed determination and camaraderie',
     DateReleased: '2023',
     Category: 'Action, Comedy',
     Type: 'Feature Film',
@@ -197,7 +197,7 @@ export const Movies = [
     {
         id: 16,
     Title: 'When You Are Mine',
-    Epilogue: 'A love story complicated by secrets and betrayal.',
+    Epilogue: 'When You Are Mine is a 2023 Nigerian romantic drama directed by Chidi Anyanwu Chidox1. The film stars Onyii Alex, Chinenye Nnebe, and Dera Osadebe1. It tells the story of a complex love triangle filled with passion, betrayal, and redemption. In the epilogue of When You Are Mine, the film concludes with the resolution of the tumultuous relationships between the main characters. After a series of dramatic events, the characters come to terms with their past actions and the consequences they have faced. The final scenes depict the characters finding closure and moving forward with their lives. Onyii Alex’s character, who has endured significant emotional turmoil, finally finds peace and starts a new chapter in her life. Chinenye Nnebe’s character, who has been caught in the middle of the love triangle, decides to focus on her personal growth and career, leaving behind the chaos of her past relationships. The epilogue emphasizes themes of forgiveness, self-discovery, and the importance of making amends. The film ends on a hopeful note, with the characters looking towards the future with renewed hope and determination1',
     DateReleased: '2023',
     Category: 'Romance, Drama',
     Type: 'Feature Film',
@@ -210,7 +210,7 @@ export const Movies = [
     {
         id: 17,
     Title: 'Downright Fondness',
-    Epilogue: 'Two people from different worlds find love against all odds.',
+    Epilogue: 'Downright Fondness is a 2024 Nigerian drama film directed by Vincent D. Anointed, Nelly Gilson, and Jill Okorocha12. The movie stars Destiny Amaka, Ray Emodi, and Keira, and it explores themes of love, betrayal, and redemption12. In the epilogue of Downright Fondness, the film concludes with the characters coming to terms with the events that have transpired. After a series of emotional and dramatic twists, the main characters find themselves at a crossroads. Destiny Amaka’s character, Sydney, who has faced numerous challenges and betrayals, finally finds peace and closure. She decides to leave behind her tumultuous past and start anew, focusing on her personal growth and happiness. Ray Emodi’s character, Caleb, who has struggled with his own demons and mistakes, seeks forgiveness and attempts to make amends with those he has wronged. The final scenes depict Caleb making a sincere effort to rebuild his relationships and regain the trust of his loved ones. The epilogue emphasizes themes of forgiveness, personal growth, and the importance of moving forward. The film ends on a hopeful note, with the characters looking towards the future with renewed hope and determination12.',
     DateReleased: '2024',
     Category: 'Romance, Drama',
     Type: 'Feature Film',
@@ -223,7 +223,7 @@ export const Movies = [
     {
         id: 18,
     Title: 'Afamefuna',
-    Epilogue: 'A young man’s quest to honor his family’s legacy.',
+    Epilogue: 'Áfàméfùnà: An Nwa Boi Story is a 2023 Nigerian drama directed by Kayode Kasum1. The film explores the Igbo apprenticeship system and its impact on the lives of two friends, Áfàméfùnà and Paulo1. In the epilogue of Áfàméfùnà: An Nwa Boi Story, the film concludes with Áfàméfùnà reflecting on the events that led to the tragic death of his friend Paulo. After being questioned by the police, Áfàméfùnà is left to ponder the complexities of their friendship and the choices they made within the apprenticeship system. The final scenes depict Áfàméfùnà visiting Paulo’s grave, where he makes a heartfelt promise to honor Paulo’s memory by continuing the work they started together. He decides to mentor young apprentices, ensuring that they receive the guidance and support needed to succeed. This act of redemption and commitment to the community symbolizes Áfàméfùnà’s growth and the enduring legacy of their friendship. The epilogue emphasizes themes of loyalty, redemption, and the importance of mentorship. It leaves viewers with a sense of hope and the belief that positive change can arise from even the most tragic circumstances1',
     DateReleased: '2023',
     Category: 'Drama',
     Type: 'Feature Film',
@@ -236,7 +236,7 @@ export const Movies = [
     {
         id: 19,
     Title: 'Breaking Point',
-    Epilogue: 'A woman’s struggle to balance her career and personal life.',
+    Epilogue: 'Breaking Point is a 2023 Nigerian drama film starring Maurice Sam, Onyii Alex, and Bolaji Ogunmola12. The movie explores themes of love, betrayal, and resilience as the characters navigate complex personal and professional challenges. In the epilogue of Breaking Point, the film concludes with the characters reflecting on the tumultuous events that have transpired. After a series of dramatic confrontations and revelations, the main characters find themselves at a crossroads. Maurice Sam’s character, who has faced significant personal and professional setbacks, begins to rebuild his life with a renewed sense of purpose. Onyii Alex’s character, who has endured betrayal and heartbreak, finds strength in her newfound independence and decides to pursue her dreams without relying on others. The final scenes depict the characters coming together in a moment of reconciliation and understanding. They acknowledge their past mistakes and make a commitment to move forward with a focus on personal growth and mutual support. The epilogue emphasizes themes of forgiveness, resilience, and the importance of second chances.',
     DateReleased: '2023',
     Category: 'Drama',
     Type: 'Feature Film',
@@ -249,7 +249,7 @@ export const Movies = [
     {
         id: 20,
     Title: 'It Blooms in june',
-    Epilogue: 'A woman finds hope and love in the most unexpected places.',
+    Epilogue: 'It Blooms in June is a 2024 Nigerian drama film directed by Akorede Azeez12. The movie stars Susan Pwajok, Femi Jacobs, and Kiki Omeili, and it tells the story of a father and daughter navigating life after the tragic loss of their wife and mother. In the epilogue of It Blooms in June, the film concludes with the father, Lanre, and his daughter, Mira, finding a new sense of balance and understanding. After years of living in a protective bubble, Lanre finally accepts that he needs to let Mira explore the world beyond their close-knit life. The final scenes depict Mira preparing to leave for university, symbolizing her growth and the beginning of a new chapter. Lanre, though initially reluctant, supports her decision and realizes that letting go is a part of loving someone. The epilogue emphasizes themes of growth, acceptance, and the enduring bond between father and daughter. The film ends on a hopeful note, with Lanre and Mira sharing a heartfelt moment at the place they used to visit with Mira’s mother. This scene serves as a poignant reminder of their shared memories and the strength they have found in each othe',
     DateReleased: '2024',
     Category: 'Drama, Romance',
     Type: 'Feature Film',
@@ -262,7 +262,7 @@ export const Movies = [
     {
         id: 21,
     Title: 'The set up',
-    Epilogue: 'A group of thieves plan one final heist that could change their lives forever.',
+    Epilogue: 'The Set Up is a 2019 Nigerian crime thriller directed by Niyi Akinmolayan12. The film stars Adesua Etomi, Dakore Akande, and Kehinde Bankole, and follows the story of Chike, a young woman who becomes entangled in a web of deceit and crime12. In the epilogue of The Set Up, the film concludes with Chike reflecting on the series of events that have drastically changed her life. After navigating through a maze of betrayal and danger, she finds herself at a crossroads. The final scenes depict Chike making a pivotal decision to leave her life of crime behind and seek redemption. Chike’s journey towards redemption is not easy. She faces numerous challenges as she tries to rebuild her life and make amends for her past actions. The epilogue shows her taking steps to reconnect with her estranged family and find legitimate work, symbolizing her commitment to a new beginning. The film ends on a hopeful note, with Chike looking towards the future with a sense of determination and hope. The epilogue emphasizes themes of redemption, the consequences of one’s choices, and the possibility of starting anew despite past mistakes',
     DateReleased: '2023',
     Category: 'Action, Thriller',
     Type: 'Feature Film',
@@ -275,7 +275,7 @@ export const Movies = [
     {
         id: 22,
     Title: 'king of boys',
-    Epilogue: 'A historian uncovers secrets that link her to a forgotten era.',
+    Epilogue: 'King of Boys is a 2018 Nigerian crime political thriller directed by Kemi Adetiba12. The film follows Alhaja Eniola Salami, a powerful businesswoman with political ambitions, who gets entangled in a dangerous power struggle12. In the epilogue of King of Boys, Alhaja Eniola Salami reflects on her tumultuous journey. After surviving numerous betrayals and violent confrontations, she emerges stronger but more cautious. The final scenes depict Eniola consolidating her power, having learned valuable lessons about trust and loyalty. The epilogue shows Eniola visiting the graves of her loved ones, paying respects and contemplating the cost of her ambition. She makes a vow to honor their memories by continuing her quest for power, but with a renewed sense of purpose and a more strategic approach. The film ends with Eniola looking out over the city, symbolizing her readiness to face future challenges with resilience and determination',
     DateReleased: '2024',
     Category: 'Mystery, Drama',
     Type: 'Feature Film',
@@ -288,7 +288,7 @@ export const Movies = [
     {
         id: 23,
     Title: 'The Unseen',
-    Epilogue: 'A detective investigates a series of mysterious disappearances in a small town.',
+    Epilogue: 'The Unseen is a 2023 Nigerian supernatural thriller directed by Uche Chukwu12. The film follows the story of a young woman, Ada, who begins to experience strange and terrifying events after moving into a new house. As she delves deeper into the mystery, she uncovers dark secrets about the house and its previous occupants12. In the epilogue of The Unseen, Ada finally confronts the malevolent spirit haunting her home. With the help of a local spiritualist, she performs a ritual to banish the spirit. The final scenes depict Ada finding peace and closure as the spirit is laid to rest. The epilogue also shows Ada deciding to leave the house and start anew, symbolizing her journey towards healing and moving forward from the traumatic experiences. The film ends on a hopeful note, with Ada looking towards the future with a sense of relief and optimism',
     DateReleased: '2023',
     Category: 'Thriller, Mystery',
     Type: 'Feature Film',
@@ -301,7 +301,7 @@ export const Movies = [
     {
         id: 24,
     Title: 'living in bondage',
-    Epilogue: 'A young man must prove himself worthy of inheriting his family’s empire.',
+    Epilogue: 'Living in Bondage is a classic Nigerian film released in two parts in 1992 and 1993, directed by Chris Obi Rapu1. The movie tells the story of Andy Okeke, who joins a secret cult to gain wealth, leading to tragic consequences. In the epilogue of Living in Bondage, Andy Okeke’s life takes a dramatic turn. After sacrificing his wife Merit for wealth, Andy’s newfound affluence is short-lived. He is haunted by Merit’s ghost, leading to his mental breakdown1. The final scenes depict Andy living as a vagrant under a Lagos flyover, consumed by guilt and madness. The epilogue emphasizes the moral lesson that wealth gained through evil means brings destruction. Andy’s story serves as a cautionary tale about the dangers of greed and the consequences of one’s actions',
     DateReleased: '2024',
     Category: 'Drama',
     Type: 'Feature Film',
@@ -314,7 +314,7 @@ export const Movies = [
     {
         id: 25,
     Title: 'Brotherhood',
-    Epilogue: 'A couple devises a plan to save their failing marriage.',
+    Epilogue: 'Brotherhood is a 2022 Nigerian crime-action thriller directed by Loukman Ali12. The film stars Tobi Bakre, Falz, and Basketmouth, and follows the story of twin brothers, Wale and Akin, who find themselves on opposite sides of the law after the tragic death of their parents. In the epilogue of Brotherhood, the film concludes with a dramatic and emotional resolution. After a series of intense confrontations and betrayals, Wale, the police officer, and Akin, the gang leader, face their final showdown. The climax of their conflict results in a tragic yet cathartic moment where both brothers come to terms with their choices and the paths they have taken. The final scenes depict Wale reflecting on the events that led to the downfall of his brother. He is seen visiting Akin’s grave, symbolizing his grief and the heavy burden of his duty. The epilogue emphasizes the themes of loyalty, family, and the consequences of one’s actions. Wale’s journey ends with him making a vow to honor his brother’s memory by continuing his fight against crime, but with a renewed sense of justice and compassion. The film ends on a somber yet hopeful note, leaving viewers with a powerful message about the complexities of familial bonds and the impact of one’s choices1',
     DateReleased: '2023',
     Category: 'Romance, Drama',
     Type: 'Feature Film',
@@ -327,7 +327,7 @@ export const Movies = [
     {
         id: 26,
     Title: 'Anikulapo',
-    Epilogue: 'A journalist uncovers a conspiracy that puts her life in danger.',
+    Epilogue: 'Aníkúlápó is a 2022 Nigerian epic fantasy film directed by Kunle Afolayan12. The movie tells the story of Saro, a traditional textile weaver, who gains the power to resurrect the dead through a mystical gourd, leading to his rise and eventual downfall12. In the epilogue of Aníkúlápó, Saro’s journey reaches a dramatic conclusion. After gaining immense power and influence by resurrecting the dead, Saro’s hubris leads him to make inordinate demands from the villagers. His betrayal of Queen Arolake, who initially helped him gain his powers, marks the beginning of his downfall12. The final scenes depict Saro attempting to resurrect the king’s heir, only to discover that he has lost his power. Arolake, feeling betrayed and disillusioned, undermines the source of Saro’s power and leaves him. Saro’s failure to resurrect the prince results in his disgrace and the loss of his status12. The epilogue emphasizes themes of pride, betrayal, and the consequences of unchecked ambition. It leaves viewers with a powerful message about the dangers of greed and the importance of humility',
     DateReleased: '2024',
     Category: 'Thriller, Drama',
     Type: 'Feature Film',
@@ -340,7 +340,7 @@ export const Movies = [
     {
         id: 27,
     Title: 'blood sisters',
-    Epilogue: 'An archaeologist discovers a lost kingdom and must protect it from treasure hunters.',
+    Epilogue: 'Blood Sisters is a 2022 Nigerian thriller series directed by Biyi Bandele and Kenneth Gyang12. The series follows the story of two best friends, Sarah and Kemi, whose lives are turned upside down when Sarah’s fiancé, Kola, mysteriously disappears on their wedding day12. In the epilogue of Blood Sisters, the series concludes with Sarah and Kemi reflecting on the harrowing events that have transpired. After being on the run and facing numerous dangers, they finally find a moment of peace. The final scenes depict the two friends coming to terms with the trauma they have endured and the secrets they have uncovered about Kola and his family. Sarah decides to start a new life, free from the shadows of her past. She moves to a different city to pursue her dreams and rebuild her life. Kemi, on the other hand, remains by Sarah’s side, supporting her as they both heal from their experiences. The epilogue emphasizes themes of friendship, resilience, and the importance of moving forward despite the challenges. The series ends on a hopeful note, with Sarah and Kemi looking towards the future with a sense of optimism and strength12.',
     DateReleased: '2023',
     Category: 'Adventure, Drama',
     Type: 'Feature Film',
@@ -353,7 +353,7 @@ export const Movies = [
     {
         id: 28,
     Title: 'ijakumo',
-    Epilogue: 'A rising star grapples with the dark side of fame.',
+    Epilogue: 'Ijakumo: The Born Again Stripper is a 2022 Nigerian suspense thriller directed by Adebayo Tijani and produced by Toyin Abraham12. The film tells the story of a wealthy pastor who discovers that his new favorite stripper is his church’s worship leader, leading to a series of dramatic and unexpected events12. In the epilogue of Ijakumo: The Born Again Stripper, the film concludes with the pastor facing the consequences of his actions. After the affair is exposed, his life unravels as he loses his congregation, his wealth, and his reputation. The final scenes depict him in a state of reflection and remorse, realizing the gravity of his mistakes. The stripper, who had orchestrated the affair as part of a plan to seek revenge for past wrongs, finds herself grappling with the moral implications of her actions. Despite achieving her goal, she is left with a sense of emptiness and guilt. The epilogue shows her attempting to rebuild her life, seeking forgiveness and redemption. The film ends on a somber note, emphasizing themes of betrayal, revenge, and the complex nature of forgiveness. It leaves viewers with a powerful message about the consequences of deceit and the importance of integrity.',
     DateReleased: '2024',
     Category: 'Drama',
     Type: 'Feature Film',
@@ -366,7 +366,7 @@ export const Movies = [
     {
         id: 29,
     Title: 'Jagun Jagun',
-    Epilogue: 'A mute girl becomes the key witness in a high-profile murder case.',
+    Epilogue: 'Jagun Jagun is a 2023 Nigerian epic film directed by Adebayo Tijani and Tope Adebayo12. The movie stars Femi Adebayo, Lateef Adedimeji, and Bimbo Ademoye, and tells the story of a young warrior, Gbotija, who seeks to avenge his father’s death and faces the wrath of a powerful warlord12. In the epilogue of Jagun Jagun, the film concludes with Gbotija reflecting on his journey and the battles he has fought. After a climactic showdown with the warlord Ogundiji, Gbotija emerges victorious but deeply scarred by the violence and loss he has endured. The final scenes depict Gbotija returning to his village, where he is welcomed as a hero. Despite his victory, Gbotija is haunted by the memories of those he lost along the way, including his mentor and close friends. The epilogue shows him visiting their graves, paying his respects, and vowing to honor their memories by using his newfound power and influence to bring peace and justice to the land. The film ends on a hopeful yet somber note, emphasizing themes of sacrifice, resilience, and the heavy burden of leadership. Gbotija’s journey serves as a powerful reminder of the cost of vengeance and the importance of striving for a better future12.',
     DateReleased: '2024',
     Category: 'Thriller, Drama',
     Type: 'Feature Film',
@@ -379,7 +379,7 @@ export const Movies = [
     {
         id: 30,
     Title: 'Blood Vessel',
-    Epilogue: 'A man seeks redemption for his past mistakes.',
+    Epilogue: 'Blood Vessel is a 2023 Nigerian thriller directed by Moses Inwang12. The film follows six strangers who stow away on a ship to escape a town devastated by oil pollution, only to face unforeseen dangers on board12.In the epilogue of Blood Vessel, the film concludes with the survivors reflecting on their harrowing journey. After a series of terrifying events and confrontations with the malevolent forces on the ship, the remaining characters manage to escape. The final scenes depict them arriving at a safe harbor, physically and emotionally scarred but alive. Abbey and Oyin, the young couple who fled their village to protect their unborn child, find a moment of peace as they prepare to start their new life. The epilogue shows them holding their newborn baby, symbolizing hope and new beginnings despite the trauma they endured12. The other survivors, including the brothers Tekena and Olotu, and the activists Boma and Degbe, also find a sense of closure. They vow to continue their fight against the injustices that forced them to flee in the first place. The film ends on a hopeful yet somber note, emphasizing themes of survival, resilience, and the enduring human spirit12',
     DateReleased: '2023',
     Category: 'Drama',
     Type: 'Feature Film',

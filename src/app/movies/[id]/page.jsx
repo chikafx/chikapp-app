@@ -29,6 +29,9 @@ function handleMovieAdd(){
           backgroundColor:'blue'}}>
         {details.Title}</h1>
         <p>{details.Epilogue}</p>
+        <p>CATEGORY: {details.Category}</p>
+        <p>KIND: {details.Kind}</p>
+        <p>Actors: {details.Actors}</p>
         <button onClick={handleMovieAdd}
         className='bg-slate-950 text-slate-50 p-3 rounded-md'>add movie</button>
 

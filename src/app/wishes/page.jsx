@@ -5,7 +5,7 @@ import Image from 'next/image'
 import Delete from './Delete';
 
 export default function WishPage() {
-    const {movieItem, title}= useContext(SidebarContext)
+    const {movieItem}= useContext(SidebarContext)
   return (
     <div>
         {movieItem.length==0 ?
@@ -20,8 +20,8 @@ export default function WishPage() {
                     <thead>
                         <tr>
                             <th>Image</th>
-                            <th className='mr-9'>Title</th>
-                            <th>Epilogue</th>
+                            <th className='mr-9'>title</th>
+                            <th>epi</th>
                         </tr>
                     </thead>
                 

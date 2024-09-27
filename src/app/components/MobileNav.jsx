@@ -8,6 +8,7 @@ import { MdWatchLater } from 'react-icons/md'
 export default function MobileNav() {
     const [open, setOpen] = useState(false)
     const { WatchLaterCount }=useState(SidebarContext)
+    const [cartCount, setCartCount] = useState(0)
 
     
 
@@ -46,9 +47,10 @@ export default function MobileNav() {
                 <Link href={'/reviews'}>
                 <li>reviews</li>
                 </Link>
-                
+                <Link href={'/wishes'}>
                 <MdWatchLater size={50}/>
                 <li>{WatchLaterCount}</li>
+                </Link>
             </ul>
         }
     </nav>
