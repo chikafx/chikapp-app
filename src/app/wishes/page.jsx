@@ -28,13 +28,13 @@ export default function WishPage() {
                 <tbody>
                 {movieItem.map((movie, index)=>(
                     <tr key={index}>
-                        <td><Image src={`/mv/${String(title).split(' ').join('')}.jpeg`}
-                         alt={movie.title} title={movie.title} width={'150'} height={'150'}/></td>
-                        <td>{movie.title}</td>
+                        <td><Image src={`/mv/${movie.img}`}
+                         alt={movie.Title} title={movie.Title} width={'150'} height={'150'}/></td>
+                        <td>{movie.Title}</td>
                         <td>{movie.epi}</td>
 
                         <td>
-                            <Delete index={index} title={movie.title}/>
+                            <Delete index={index} title={movie.Title}/>
                         </td>
                     </tr>
                 ))}
